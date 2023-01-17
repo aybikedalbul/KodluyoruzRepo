@@ -10,8 +10,8 @@ if(myname.length < 1){
 function addZero(value){
     if(value< 10) {
         value = "0" + value
-        return value;
     }
+     return value;
 }
 
 function showTime(){

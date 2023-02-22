@@ -1,6 +1,6 @@
-# Kodluyoruz&Patika Projeleri
+# Kodluyoruz&Patika Projects
 
-Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End ve Back-End Eğitiminde oluşturduğum repodur. İçerisinde Javascript ve Node.js projeleri bulunmaktadır.
+This repo is the one I created in the [Kodluyoruz](https://www.kodluyoruz.org/) Front-End and Back-End tutorial. It includes Javascript and Node.js projects.
 
 
 
